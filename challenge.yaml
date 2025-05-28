@@ -1,6 +1,6 @@
-title: 'Testovací úloha'
+title: 'Encoding obecně'
 
-shortDescription: 'This is a description, that should be kept short'
+shortDescription: 'Přehled základních metod enkódování dat používaných pro text, znaky, binární soubory a přenos informací přes internet.'
 
 theory: './THEORY.md'
 
