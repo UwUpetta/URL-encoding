@@ -1,0 +1,10 @@
+title: 'Testovací úloha'
+
+shortDescription: 'This is a description, that should be kept short'
+
+theory: './THEORY.md'
+
+description: './DESCRIPTION.md'
+
+handbook: './HANDBOOK.md'
+
