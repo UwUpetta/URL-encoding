@@ -12,13 +12,22 @@ difficulty: beginner
 
 flags:
   - type: 2
+      identifier: 'mojeURL'
+      answer: 'haxagon{https://www.vsechno.cz/hracky/auto-na-ovladani?barva=modra}'
+      maximumTries: 3
+
+      name: 'Pomužes mi napsat url'
+
+      description: 'Máma po tobě chce, abys vybral dárek pro mladšího bratra a poslal ji odkaz vybral jsi modrého auto na ovládání, ale ne! Nefunguje ti ctr+c, asi to budeš muset přepsat. Stránka se jmenuje vsechno.cz, běží na HTTPS protokolu cesta k produktu je hracky poté auto-na-ovladani a jěště musíš vybrat že dotaz barva bude modra'
+      
+  - type: 2
       identifier: 'NefunkcniURL'
-      answer: 'haxagon{skibidy_base_64}'
+      answer: 'haxagon{https://haxagon.xyz/pro%C4%8D%20mi%20to%20nefunguje%F0%9F%98%A2}'
       maximumTries: 3
 
       name: 'Proč mi nefunguje URL'
 
-      description: 'Kamarád mi zdělil url adresu, ale když jsem ji prepsal tak nefunguje. Napsal jsem ji takto:```https://haxagon.xyz/proč mi to nefunguje😢```'
+      description: 'Kamarád mi zdělil url adresu, ale když jsem ji prepsal tak nefunguje. Napsal jsem ji takto:https://haxagon.xyz/proč mi to nefunguje😢'
       
   - type: 2
       identifier: 'neznamyText'
