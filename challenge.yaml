@@ -22,12 +22,12 @@ flags:
       
   - type: 2
       identifier: 'NefunkcniURL'
-      answer: 'haxagon{https://haxagon.xyz/pro%C4%8D%20mi%20to%20nefunguje%F0%9F%98%A2}'
+      answer: 'haxagon{https://haxagon.xyz/pro%C4%8D%20mi%20to%20nefunguje}'
       maximumTries: 3
 
       name: 'Proč mi nefunguje URL'
 
-      description: 'Kamarád mi zdělil url adresu, ale když jsem ji prepsal tak nefunguje. Napsal jsem ji takto:https://haxagon.xyz/proč mi to nefunguje😢'
+      description: 'Kamarád mi zdělil url adresu, ale když jsem ji prepsal tak nefunguje. Napsal jsem ji takto:https://haxagon.xyz/proč mi to nefunguje'
       
   - type: 2
       identifier: 'neznamyText'
