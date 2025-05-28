@@ -1,0 +1,2 @@
+Tato kapitola poskytuje přehled základních metod enkódování dat, které se používají při práci s textem, binárními daty a přenosem informací přes internet. Vysvětluje principy a použití formátů jako jsou URL Encoding, Unicode (včetně podpory emoji), Hexadecimální kódování a Base64 (včetně využití pro obrázky a data URI). Kapitola je vhodná jako úvod do problematiky kódování dat v oblasti webových technologií, API a bezpečného přenosu informací.
+
