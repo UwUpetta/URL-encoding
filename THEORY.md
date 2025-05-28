@@ -43,6 +43,16 @@ Unicode je standard pro reprezentaci znaků z většiny světových jazyků.
 
 ---
 
+## Hexadecimalní soustava
+
+Hexadecimální soustava (neboli šestnáctková) je číselná soustava s base 16. Používá 16 znaků: 0-9 a A-F, kde A=10, B=11, C=12, D=13, E=14, F=15. V informatice se často používá pro zápis paměťových adres a dat. 
+
+**Podrobnosti:**
+
+- Základ: 16. 
+- Znaky: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F. 
+
+---
 ## 🔢 Hexadecimální kódování (Hex)
 
 Zobrazuje binární data jako řetězec hexadecimálních (základ 16) číslic.
