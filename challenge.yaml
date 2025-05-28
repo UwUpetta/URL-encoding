@@ -18,7 +18,7 @@ flags:
 
       name: 'Pomužes mi napsat url'
 
-      description: 'Máma po tobě chce, abys vybral dárek pro mladšího bratra a poslal ji odkaz vybral jsi modrého auto na ovládání, ale ne! Nefunguje ti ctr+c, asi to budeš muset přepsat. Doména stránky je vsechno.cz, běží na HTTPS protokolu cesta k produktu je hracky poté auto-na-ovladani a jěště musíš vybrat že dotaz barva bude modra'
+      description: 'Máma po tobě chce, abys vybral dárek pro mladšího bratra a poslal ji odkaz vybral jsi modrého auto na ovládání, ale ne! Nefunguje ti ctr+c, asi to budeš muset přepsat. Doména stránky je vsechno.cz, běží na HTTPS protokolu a port je 443 cesta k produktu je hracky poté auto-na-ovladani a jěště musíš vybrat že dotaz barva bude modra'
       
   - type: 2
       identifier: 'NefunkcniURL'
