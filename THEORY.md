@@ -1,11 +1,11 @@
 
-# 📚 Teorie o enkódování dat
+# Teorie o enkódování dat
 
 Enkódování (neboli kódování) je proces převodu dat z jednoho formátu do jiného za účelem jejich uchování, přenosu nebo zajištění kompatibility mezi různými systémy. Existuje mnoho typů enkódování v závislosti na použití. Níže jsou vysvětleny některé běžné formáty.
 
 ---
 
-## 🌐 URL Encoding (Percent Encoding)
+## URL Encoding (Percent Encoding)
 
 Používá se pro zakódování speciálních znaků v URL adresách, které by jinak měly speciální význam (např. `?`, `&`, `=`, mezery atd.).
 
@@ -26,7 +26,7 @@ https://example.com/search?q=hello%20world
 
 ---
 
-## 🔤 Unicode
+## Unicode
 
 Unicode je standard pro reprezentaci znaků z většiny světových jazyků.
 
@@ -53,7 +53,7 @@ Hexadecimální soustava (neboli šestnáctková) je číselná soustava s base 
 - Znaky: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F. 
 
 ---
-## 🔢 Hexadecimální kódování (Hex)
+## Hexadecimální kódování (Hex)
 
 Zobrazuje binární data jako řetězec hexadecimálních (základ 16) číslic.
 
@@ -68,7 +68,7 @@ Zobrazuje binární data jako řetězec hexadecimálních (základ 16) číslic.
 
 ---
 
-## 📦 Base64 Encoding
+## Base64 Encoding
 
 Používá se pro převod binárních dat na text, zejména při přenosu přes protokoly, které nejsou binárně bezpečné (např. e-mail, JSON).
 
@@ -92,7 +92,7 @@ iVBORw0KGgoAAAANSUhEUgAAA5oAAAIKCAYAAABC5DB8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
 ```
 ---
 
-## 🧠 Shrnutí
+## Shrnutí
 
 | Formát       | Použití                                       | Příklad                                  |
 |--------------|------------------------------------------------|------------------------------------------|
